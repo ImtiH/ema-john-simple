@@ -1,0 +1,10 @@
+/* .shop-container{ */
+.twin-container{ /*renaming it becuase this is going to be used for Review.js file as well.*/
+    display: flex;
+}
+.product-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray; 
+}
